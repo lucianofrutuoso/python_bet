@@ -313,7 +313,7 @@ def main():
     Função principal - COLOQUE SUA CHAVE API AQUI
     """
     # 🔑 SUA CHAVE API - Obtenha em: https://the-odds-api.com/
-    API_KEY = "SUA_CHAVE_API_AQUI"  # ← SUBSTITUA POR SUA CHAVE
+    API_KEY = "b2634a9ae53b4c61e99bcbd109ffcf27"  # ← SUBSTITUA POR SUA CHAVE
     
     if API_KEY == "SUA_CHAVE_API_AQUI":
         print("❌ POR FAVOR, CONFIGURE SUA CHAVE API!")
